@@ -2,3 +2,10 @@ geopandas
 matplotlib
 rasterio
 folium
+keplergl
+osmnx
+shapely
+numpy
+streamlit 
+streamlit-folium 
+requests
